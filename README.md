@@ -1,6 +1,6 @@
 # Advent of Code 2021
 
-This year, I have decided to write AoC in (Dart)[https://dart.dev] because I have been learning (Flutter)[https://flutter.dev] this year.
+This year, I have decided to write AoC in [Dart](https://dart.dev) because I have been learning [Flutter](https://flutter.dev) this year.
 
 ## Running Code
 
